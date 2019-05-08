@@ -16,7 +16,7 @@ password: nvidia
 
 Turn on fan
 ``` shell
-$ ./jetson_clocks.sh
+$ sudo ./jetson_clocks.sh
 ```
 ## Setting up the Vehicle Electronic Speed Controller
 From home directory run
